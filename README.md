@@ -8,7 +8,7 @@
 Материалы:
 Тексты А. Камю и Ж.-П. Сартра на французском языке: 
 Albert Camus: "Le Mythe de Sisyphe", "L'Étranger", "La Peste"
-J.-P. Sartre: "La nausée", "L'existentialisme est un humanisme", "L'Être et le Néant Sartre"
+J.-P. Sartre: "La nausée", "L'existentialisme est un humanisme", "L'Être et le Néant"
 
 
 Этапы: 
